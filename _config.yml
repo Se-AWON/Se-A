@@ -1,1 +1,4 @@
-theme: jekyll-theme-architect
+git clone https://github.com/jamigibbs/phantom.git
+cd phantom
+bundle
+jekyll serve
